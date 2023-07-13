@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name": "Zapaillas Nike",
+        "price": 30000,
+        "category": "Calzado",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://nikearprod.vtexassets.com/arquivos/ids/698461/DH4072_001_A_PREM.jpg?v=638229587866770000"
+    },
+    {
+        "id":2,
+        "name":"Zapaillas Puma",
+        "price":28000,
+        "category": "Calzado",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/t34nnbioeg2h6qr7p7c7m00w7u08/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5"
+    },
+    {
+        "id":3,
+        "name":"Zapaillas Adidas",
+        "price":32000,
+        "category": "Calzado",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://assets.adidas.com/images/w_600,f_auto,q_auto/944266fd680342e1b3e2aed7016ff4dc_9366/Zapatillas_adidas_x_LEGOr_Sport_Pro_Azul_GZ2416_01_standard.jpg"
+    },
+    {
+        "id":4,
+        "name":" Campera Nike",
+        "price": 25000,
+        "category":"Camperas",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw7a206243/products/NIDJ6995-010/NIDJ6995-010-1.JPG"
+    },
+    {
+        "id":5,
+        "name":" Pantalon Adidas",
+        "price": 15000,
+        "category":"Pantalones",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/p/a/pantalon-adidas-mujer-negro-75406635-10002eh22870001-1.jpg"
+    },
+    {
+        "id":6,
+        "name":"Remera Puma",
+        "price": 10000,
+        "category":"Remeras",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://sporting.vtexassets.com/arquivos/ids/289214-800-800?v=637576573155430000&width=800&height=800&aspect=true"
+    },
+    {
+        "id":7,
+        "name": "Gorro Adidas",
+        "price":"5500",
+        "category":"Gorros",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dbe85e091cfb40638cf6acde0077ce00_9366/Gorro_Pescador_Adicolor_Trifolio_Negro_AJ8995_01_standard.jpg"
+    },
+    {
+        "id":8,
+        "name":"Gorro Puma",
+        "price":"5000",
+        "category":"Gorros",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://www.digitalsport.com.ar/files/products/60ddbad49b5d3-427162-500x500.jpg"
+    },
+    {
+        "id":9,
+        "name":"Gorro Nike",
+        "price":"6000",
+        "category":"Gorros",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://static.nike.com/a/images/t_default/80e546c5-c397-4ed1-bb5f-56ea8b57c36d/sportswear-gorro-funcional-1V6BL9.png"
+    }
+]
