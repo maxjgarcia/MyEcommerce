@@ -1,5 +1,4 @@
-
-import Button from 'react-bootstrap/Button';
+import Alert from "./Alert"
 
 export const ItemDetails = ({ product }) => {
   return (
@@ -16,8 +15,8 @@ export const ItemDetails = ({ product }) => {
         <div className="right">
           <div className="title">{product.name}</div>
           <p className="description">{product.description}</p>
-          <div className="price">$ {product.price}</div>
-          <Button className="btn" variant="dark">Agregar</Button>
+          <div className="price">$ {product.price}</div>        
+          <Alert/>
         </div>
        
       </div>

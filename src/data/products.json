@@ -70,5 +70,53 @@
         "category":"Gorros",
         "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
         "img" : "https://static.nike.com/a/images/t_default/80e546c5-c397-4ed1-bb5f-56ea8b57c36d/sportswear-gorro-funcional-1V6BL9.png"
+    },
+    {
+        "id":10,
+        "name":"Remera Nike",
+        "price":"11000",
+        "category":"Remeras",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://essential.vtexassets.com/arquivos/ids/880261-800-auto?v=638235150348400000&width=800&height=auto&aspect=true"
+    },
+    {
+        "id":11,
+        "name":"Remera Adidas",
+        "price":"9000",
+        "category":"Remeras",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://essential.vteximg.com.br/arquivos/ids/305739-1000-1000/266-0710_1.jpg"
+    },
+    {
+        "id":12,
+        "name":"Campera Adidas",
+        "price":"26000",
+        "category":"Camperas",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/4gf93h1p6usyimpdf6xjicaurgd9/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5"
+    },
+    {
+        "id":13,
+        "name":"Campera Puma",
+        "price":"24500",
+        "category":"Camperas",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/campera-puma-iconic-t7-track-negra-640020530094001-1.jpg"
+    },
+    {
+        "id":14,
+        "name":"Pantalon Puma",
+        "price":"15500",
+        "category":"Pantalones",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/p/a/pantalon-puma-entrenamiento-power-colorblock-mujer-negro-640020671172001-1.jpg"
+    },
+    {
+        "id":15,
+        "name":"Pantalon Nike",
+        "price":"14000",
+        "category":"Pantalones",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quaerat reprehenderit nobis provident. Odit, cumque dolor libero pariatur tenetur voluptatum obcaecati vel, dolore, corrupti fugit dolorum commodi magnam nisi quae?",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqnNNb2krFfviFAk3zoLEzRf9ESsg0OTZYv0CBS8sxSYXi8eeBbHXQPPQPOLnOa7tikk&usqp=CAU"
     }
 ]

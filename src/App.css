@@ -89,9 +89,10 @@
  position: absolute;
  bottom: 0;
  right: 0;
- margin-right: 1rem;
+margin-right: 1rem;
  margin-bottom: 1rem;
 }
+
 
 .price {
   text-align: end;

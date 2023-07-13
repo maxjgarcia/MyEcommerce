@@ -1,12 +1,13 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { Link } from 'react-router-dom';
+import Alert from "./Alert"
 
 export const Item = ({product}) => {
     
 
     return (
-      <Card style={{ width: '18rem' }}
+      <Card style={{ width: '20rem' }}
       key={product.id}
       className="float-start">
         <Card.Img variant="top" src={product.img} />
@@ -18,8 +19,8 @@ export const Item = ({product}) => {
           <Link to={`/item/${product.id}`}>
           <Button variant="primary">Detalles</Button>
           </Link>
-          {/* <Button variant="primary">Agregar</Button> */}
-        </Card.Body>
+         
+        </Card.Body>         
       </Card>
     );
 }
